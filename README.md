@@ -27,3 +27,11 @@
 - Quais as vantagens de ter um código onde usamos classes e composição ao invés de tipos primitivos
 - Tipos de valor e tipos de referência
 - Alterar dinamicamente um objeto
+
+### Na Aula 4:
+
+- Diferenças entre Null e undefined
+- Aprofundando nos conceitos de referência a um espaços na memória
+- Get e Set
+- Melhor encapsulamento da classe
+- Protegendo atributos sensíveis
